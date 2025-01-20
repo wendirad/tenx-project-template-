@@ -1,6 +1,6 @@
 loguru==0.7.3
 pandas==2.2.3
-numpy==2.2.1
+numpy==2.2.2
 matplotlib==3.10.0
 seaborn==0.13.2
 statsmodels==0.14.4
